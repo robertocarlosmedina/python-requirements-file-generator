@@ -1,0 +1,10 @@
+pip install textblob==0.17.1
+pip install torch==1.6.0
+pip install torchtext==0.7.0
+pip install nltk==3.6.3
+pip install jiwer==2.3.0
+pip install Flask-RESTful==0.3.9
+pip install Flask==2.0.2
+pip install Flask-Cors==3.0.10
+pip install pygame==2.0.2
+pip install spacy==3.2.0
